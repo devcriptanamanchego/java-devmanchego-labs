@@ -8,6 +8,10 @@
 .project
 .settings/
 .vscode/
+.metadata
+*.launch
+*.factorypath
+.prov/
 
 # Log file
 *.log
