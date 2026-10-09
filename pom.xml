@@ -29,6 +29,7 @@
     <!-- Submodule Declaration: Ensures all modules are compiled together -->
     <modules>
         <module>java-gof-patterns</module>
+        <module>java-lambda-labs</module>
     </modules>
 
     <!-- Centralized Dependency Management for Submodules -->
